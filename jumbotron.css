@@ -1,0 +1,14 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+
+.jumbotron {
+color: #FFF;
+	background: url('file:///Users/ruthdarlow/desktop/bathbanner.jpg') no-repeat;
+	background-size: cover;
+	height: 100%;
+
+}
