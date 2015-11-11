@@ -1,0 +1,10 @@
+.jumbotron {
+color: #FFF;
+	background: url('bathbanner.jpg') no-repeat;
+	background-size: cover;
+	height: 100%;
+}
+img {
+	height: 183px;
+	width: 283px;
+}
